@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my_portafolio/static/css/main.36a51fcf.chunk.css",
+    "main.js": "/my_portafolio/static/js/main.b1a3c93e.chunk.js",
+    "main.js.map": "/my_portafolio/static/js/main.b1a3c93e.chunk.js.map",
+    "runtime-main.js": "/my_portafolio/static/js/runtime-main.1f466d3d.js",
+    "runtime-main.js.map": "/my_portafolio/static/js/runtime-main.1f466d3d.js.map",
+    "static/css/2.5351225d.chunk.css": "/my_portafolio/static/css/2.5351225d.chunk.css",
+    "static/js/2.effc0753.chunk.js": "/my_portafolio/static/js/2.effc0753.chunk.js",
+    "static/js/2.effc0753.chunk.js.map": "/my_portafolio/static/js/2.effc0753.chunk.js.map",
+    "index.html": "/my_portafolio/index.html",
+    "precache-manifest.10543bc91b083c2f21671ac82cfd3568.js": "/my_portafolio/precache-manifest.10543bc91b083c2f21671ac82cfd3568.js",
+    "service-worker.js": "/my_portafolio/service-worker.js",
+    "static/css/2.5351225d.chunk.css.map": "/my_portafolio/static/css/2.5351225d.chunk.css.map",
+    "static/css/main.36a51fcf.chunk.css.map": "/my_portafolio/static/css/main.36a51fcf.chunk.css.map",
+    "static/js/2.effc0753.chunk.js.LICENSE.txt": "/my_portafolio/static/js/2.effc0753.chunk.js.LICENSE.txt",
+    "static/media/earth.jpg": "/my_portafolio/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/my_portafolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/my_portafolio/static/media/image1.c8336b0d.jpg",
+    "static/media/image2.jpg": "/my_portafolio/static/media/image2.59b9d279.jpg",
+    "static/media/image3.jpg": "/my_portafolio/static/media/image3.2a6b4ad5.jpg",
+    "static/media/image4.jpg": "/my_portafolio/static/media/image4.08c89a57.jpg",
+    "static/media/image5.jpg": "/my_portafolio/static/media/image5.8aca013d.jpg",
+    "static/media/image6.jpg": "/my_portafolio/static/media/image6.5bbd1261.jpg",
+    "static/media/ionicons.css": "/my_portafolio/static/media/ionicons.621bd386.svg",
+    "static/media/myImage.png": "/my_portafolio/static/media/myImage.bd80794f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f466d3d.js",
+    "static/css/2.5351225d.chunk.css",
+    "static/js/2.effc0753.chunk.js",
+    "static/css/main.36a51fcf.chunk.css",
+    "static/js/main.b1a3c93e.chunk.js"
+  ]
+}
